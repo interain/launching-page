@@ -30,10 +30,10 @@ const Navbar: FC<navbarProps> = ({}) => {
               className={`items-center justify-center flex space-x-10 ${outfit500.className} text-[16px]`}
             >
               <li className="text-pri-white hover:textn-[#F4D259] duration-300">
-                <a href="/staytuned">Courses</a>
+                <a href="/staytuned">Learn</a>
               </li>
               <li className="text-pri-white hover:text-[#F4D259] duration-300">
-                <a href="/staytuned">Practices</a>
+                <a href="/staytuned">Practice</a>
               </li>
               <li className="text-pri-white hover:text-[#F4D259] duration-300">
                 <a href="/staytuned">Job Board</a>
@@ -104,10 +104,10 @@ const Navbar: FC<navbarProps> = ({}) => {
             className={`items-center justify-center space-y-8  ${outfit500.className} text-[16px] `}
           >
             <li className="text-pri-white hover:text-[#F4D259] duration-300">
-              <a href="/staytuned">Courses</a>
+              <a href="/staytuned">Learn</a>
             </li>
             <li className="text-pri-white hover:text-[#F4D259] duration-300">
-              <a href="/staytuned">Practices</a>
+              <a href="/staytuned">Practice</a>
             </li>
             <li className="text-pri-white hover:text-[#F4D259] duration-300">
               <a href="/staytuned">Job Board</a>

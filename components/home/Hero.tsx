@@ -56,7 +56,7 @@ const Hero: FC<HeroProps> = ({}) => {
             <div
               className={`text-white text-[18px] mt-2 md:text-[24px] my-4  ${outfit500.className}`}
             >
-              India’s 1st AI Driven Soft Skills Training Platform
+              Where AI meets Interview Excellence
             </div>
             <div
               className={`text-[#AEAEAE] text-[15px] mx-2 md:text-[20px] ${outfit400.className}`}

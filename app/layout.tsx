@@ -4,7 +4,7 @@ import Navbar from "@/components/common/Navbar";
 
 export const metadata: Metadata = {
   title: "Interain",
-  description: "India’s 1st AI Driven Soft Skills Training Platform",
+  description: "Where AI meets Interview Excellence",
   icons: {
     icon: '/icon.png',
   },
